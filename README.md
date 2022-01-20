@@ -1,1 +1,1 @@
-# Portfolio
+ my next project is my portfolio website so this is just for a like fun for me and I developed this project when I was in my 6th semester so this project tells about all about me and recently the my domain name is expired project is not like but I also developed that this project that my address into my resume and tell about me and my projection like what I have done like it's like a portfolio kind of things so I use HTML CSS JavaScript to develop this and it took lead to nearly 23 weeks to develop this project
